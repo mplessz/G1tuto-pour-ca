@@ -5,9 +5,14 @@ La soupe miso réchauffe, elle est digeste et nutritive. Elle peut devenir un pl
 ## Ingrédients pour 2
 
 - **600 ml d'eau** pour deux environ (adapter selon vos bols)
-- **Dashi** : bouillon déshydraté. Il est normalement préparé en faisant cuire longtemps un grand morceau d'algue konbu (varech) et des copeaux de bonite (sorte de thon) séchée. Sur [celui que je trouve près de chez moi](https://www.satsuki.fr/dashi-bonite-shimaya-130g.htm), le dosage n'est indiqué qu'en japonais : 1 cuillère  à café bombée pour 600 ml d'eau.
-- **Miso** : pâte de soja et de blé fermentée très salée, au goût typique de la saveur "umami", couleur beige ou brun-rouge : **1 grosse cuillère à café par personne**. Vous en trouverez en magasin bio ou diététique mais il est souvent moins cher dans les épiceries japonaises/asiatiques. voici [celui que je trouve près de chez moi](http://www.sushiboutique.com/soupe-miso-bonite-sechees-dashi/381-pate-de-soja-blanc-4979369007622.html).
+- **Dashi** : bouillon déshydraté. Il est normalement préparé en faisant cuire longtemps un grand morceau d'algue konbu (varech) et des copeaux de bonite (sorte de thon) séchée. Sur celui que je trouve près de chez moi , le dosage n'est indiqué qu'en japonais : 1 cuillère  à café bombée pour 600 ml d'eau.
 
+<img src="img/dashi.jpg" alt="dashi déshydraté" width="200" />
+
+- **Miso** : pâte de soja et de blé fermentée très salée, au goût typique de la saveur "umami", couleur beige ou brun-rouge : **1 grosse cuillère à café par personne**. Vous en trouverez en magasin bio ou diététique mais il est souvent moins cher dans les épiceries japonaises/asiatiques. Ci-dessous celui que je trouve près de chez moi. Comme il est fermenté, il se conserve très longtemps au frigo (au moins un an) dans un récipient qui ferme bien, pour peu qu'il ne soit pas souillé par d'autres aliments.
+
+<img src="img/miso.jpg" alt="pâte miso" width="200" />
+ 
 - **Garniture** : quelques possibilités
   - algues wakame séchées (en épicerie asiatique). Ne pas remplacer par l'algue nori des rouleaux de printemps. j'ai essayé : l'algue nori a un goût trop fort et se désintègre dans la soupe.
   - lamelles de champignons de Paris (quand j'en ai trop je les coupes en lamelles et je les mets au congélateur)
@@ -26,10 +31,16 @@ La soupe miso réchauffe, elle est digeste et nutritive. Elle peut devenir un pl
 6. Servir aussitôt.
 7. La soupe peut se réchauffer même si les puristes vous rappelleront que le miso ne doit pas bouillir. 
 
-## si vous voulez préparer votre dashi
+## Pour aller plus loin
+
+### Si vous voulez préparer votre dashi
 
  Si vous êtes puriste vous pouvez préparer votre dashi. voici [la recette dont je suis partie](https://www.lafujimama.com/how-to-make-dashi/) quand j'ai essayé. ça demande un peu de persévérance et je n'ai pas trouvé que la différence de goût méritait le temps de travail supplémentaire, mais c'est personnel.
 
  Vous pouvez préparer une importante quantité de dashi, voire deux "tournées" de dashi avec les mêmes algues et copeaux de bonites.
 
  Il existe des recettes de dashi végétarien, en remplaçant la bonite par des champignons shiitake.
+
+### D'autres utilisations de la pâte miso
+
+- dans une sauce pour les pâtes, avec des champignons : j'ai testé [cette recette](https://lifecurrentsblog.com/miso-tahini-pasta-with-garlic-sauteed-mushrooms/).
