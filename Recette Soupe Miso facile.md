@@ -22,8 +22,11 @@ La soupe miso réchauffe, elle est digeste et nutritive. Elle peut devenir un pl
 3. Quand l'eau bout, ajouter la garniture en commençant par les ingrédients les plus longs à cuire (nouilles soba puis algues qui doivent se ré-hydrater, puis légumes)
 4. Dans un bol, délayer la pâte de miso avec quelques cuillères de bouillon
 5. Quand la garniture a atteint la cuisson qui vous plaît (quelques minutes pour les nouilles soba, à peine une minute pour les légumes en lamelles), retirer la casserole du feu et verser le miso délayé. Le miso ne doit pas cuire, c'est pour cela qu'il faut couper la cuisson.
-6. Servir aussitôt.
-7. La soupe peut se réchauffer même si les puristes vous rappelleront que le miso ne doit pas bouillir. 
+6. mélanger puis servir rapidement.
+
+Le miso peut "couler" au fond, ne pas hésiter à mélanger dans la casserole juste avant de servir.
+
+La soupe peut se réchauffer même si les puristes vous rappelleront que le miso ne doit pas bouillir. 
 
 ## Pour aller plus loin
 
