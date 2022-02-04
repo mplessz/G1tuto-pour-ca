@@ -54,16 +54,26 @@ package `datatools` [porté par Pierre Mercklé](https://github.com/pmerckle/dat
 conjoints.
 
 
-```{r, message= FALSE , warning=FALSE}
 
+```r
 library(devtools)
 install_github("pmerckle/datatools")
 library(datatools)
 csind1 <- c(32, 67, 21)
 csind2 <- c(35, 54, NA)
 cs_household(csind1, csind2)
-gs_household(csind1, csind2)
+```
 
+```
+## [1] "I-A"  "V-A"  "IV-B"
+```
+
+```r
+gs_household(csind1, csind2)
+```
+
+```
+## [1] "I"  "V"  "IV"
 ```
 
 
