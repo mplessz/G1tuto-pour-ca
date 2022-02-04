@@ -46,7 +46,7 @@ Vvous pouvez préparer votre dashi. Voici [la recette dont je suis partie](https
 
 ### A propos du miso
 
-C'est une pâte de soja et de blé fermentée très salée, au goût typique de la saveur "umami", couleur beige ou brun-rouge : **1 grosse cuillère à café par personne**. Vous en trouverez en magasin bio ou diététique mais il est souvent moins cher dans les épiceries japonaises/asiatiques. Ci-dessous celui que je trouve près de chez moi. Comme il est fermenté, il se conserve très longtemps au frigo (au moins un an) dans un récipient qui ferme bien, pour peu qu'il ne soit pas souillé par d'autres aliments.
+C'est une pâte de soja et de riz ou d'orge fermentée très salée, au goût typique de la saveur "umami", couleur beige ou brun-rouge. Vous en trouverez en magasin bio ou diététique mais il est souvent moins cher dans les épiceries japonaises/asiatiques. Ci-dessous celui que je trouve près de chez moi. Comme il est fermenté, il se conserve très longtemps au frigo (au moins un an) dans un récipient qui ferme bien, pour peu qu'il ne soit pas souillé par d'autres aliments.
 
 <img src="img/miso.jpg" alt="pâte miso" width="200" />
  
