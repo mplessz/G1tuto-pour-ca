@@ -7,6 +7,8 @@ output: html_document
 
 # Coder la PCS ménage selon la PCS 2020
 
+Tiré de mes échanges avec Joanie Cayouette-Remblière et avec Pierre Mercklé (que je remercie).
+
 ## La PCS ménage dans la réforme des PCS
 
 La PCS 2020 prévoit une nomenclature à 1 ou 2 chiffres pour les ménages, qui s'appuie sur la PCS de l'adulte ou les deux PCS du couple à la tête du ménage.
