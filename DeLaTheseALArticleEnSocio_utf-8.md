@@ -20,9 +20,9 @@ sociologue, chercheuse à INRAE depuis 2010
 - membre du comité de rédaction de _Soctra_ pendant 4 ans, membre du comité de rédaction de la RFS depuis septembre 2021, évaluations d'articles pour des revues anglophones: j'ai relu beaucoup d'articles.
 - membre de quelques jurys de recrutement, j'ai eu l'occasion de lire et d'évaluer des dossiers de jeunes chercheuses.
 
-Je discute tout cela plus en détail dans mon mémoire d'habilitation à diriger des recherches, chapitre 1.
+Je discute tout cela plus en détail dans mon mémoire d'HDR, chapitre 1.
 
-Marie Plessz. La Dynamique sociale des pratiques : stratification sociale, changement social et consommation alimentaire. Sociologie. Ecole des hautes Etudes en Sciences sociales (EHESS), 2021. Texte intégral: [tel-03436087](https://hal.inrae.fr/tel-03436087).
+Marie Plessz. La Dynamique sociale des pratiques : stratification sociale, changement social et consommation alimentaire. mémoire d'habilitation à diriger des recherches en Sociologie. Ecole des hautes Etudes en Sciences sociales (EHESS), 2021. Texte intégral: [tel-03436087](https://hal.inrae.fr/tel-03436087).
 
 ## Pourquoi publier des articles scientifiques ?
 
@@ -87,8 +87,9 @@ Article vs Livre :
 - Publier un article s'étale sur un temps très long, donc il ne faut pas attendre d'avoir fini pour soumettre des textes
   - Année sociologique (numéro spécial) : 2 ans
   - RFS 2017 : première soumission à Population en 2015, début de rédaction en 2014
-  - un article en anglais dans _Cultural sociology_, avec un coauteur qui est parti à l'étranger et moi aussi (en épidémiologie), une problématique socio difficile à trouver : publié en 2018, soumis en 2016, début rédaction en 2014
-- l'écriture scientifique c'est TRES DIFFICILE, donc il faut commencer tôt à soumettre des trucs, pour digérer des critiques et progresser
+  - un article en anglais dans _Cultural sociology_, avec un coauteur qui est parti en séjour de recherche et moi aussi, une problématique socio difficile à trouver : publié en 2018, soumis en 2016, début rédaction en 2014
+
+**L'écriture scientifique c'est TRES DIFFICILE, donc il faut commencer tôt** à soumettre des trucs, pour digérer des critiques et progresser
 
 ### dans l'organisation de l'écriture
 
@@ -112,10 +113,11 @@ Mais aussi :
 ### Les "Grandes revues françaises de socio"
 
 - revues relativement généralistes (cad pas thématiques) et généralement disciplinaires : 
-    - socio "pure" RFS, ARSS, Socio du travail, sociétés contemporaines, Sociologie, 
-    - sces sociales ou disciplines connexes: RFSP, Genèses, Population, Ethnologie française
+  - socio "pure" RFS, ARSS, Socio du travail, sociétés contemporaines, Sociologie, 
+  - sces sociales ou disciplines connexes: RFSP, Genèses, Population, Ethnologie française
 
 La plupart: évaluation des articles est (plus ou moins) anonyme, mais (plus ou moins) faite par les membres du comité de rédaction : 
+
 - renforce la "ligne éditoriale" de la revue
 - consulter la liste des membres avant de soumettre peut vous donner des indications sur qui a des chances d'évaluer votre article
 - en général discussion collégiale sur les décisions à prendre
@@ -144,11 +146,11 @@ La plupart: évaluation des articles est (plus ou moins) anonyme, mais (plus ou 
 
 Ex revues anglophones "atteignables" et un peu généralistes : 
 - European societies (revue de l'ESA)
-- sociology
+- Sociology (_ flagship journal of the British Sociological Association_)
 - Sociological research online
 - Cultural sociology
 
-Une foule de revues thématiques sur vos objets
+Une foule de revues thématiques, disciplinaires ou pas, sur vos objets
 
 En anglais, l'important dans un premier temps est de publier "un truc", en évitant le ppal piège...
 
@@ -170,7 +172,7 @@ Ex: le cas de l'éditeur MDPI:
 
 - [Un éditeur qui a de très nombreuses revues](https://www.mdpi.com/about/journals) 
 - discussion par un collègue économiste https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/   
-- ex: la revue [_Social sciences](https://www.mdpi.com/journal/socsci) : on ne connaît pas le comité de rédaction, on n'a pas d'affiliation pour le directeur, liste de disciplines délirante, frais de publication: 1400 CHF (francs suisses...).
+- ex: la revue [_Social sciences_](https://www.mdpi.com/journal/socsci) : on ne connaît pas le comité de rédaction, on n'a pas d'affiliation pour le directeur, liste de disciplines délirante, frais de publication: 1400 CHF (francs suisses...).
 
 Il y a aussi des conférences prédatrices.
 
@@ -240,6 +242,10 @@ C'est encore rare en socio, mais de plus en plus de revues demandent des frais d
   - si demande de révision : parfois ça ne vaut pas le coup de faire la révision, il vaut mieux soumettre ailleurs. j'ai toujours tenté les révisions même quand les demandes étaient importantes. j'ai eu une seule fois un refus après révision.
   - si vous décidez de faire les révisions
 
+### Révisions
+
+Il est probable qu'en lisant la lettre de réponse, vous soyez très en colère ou au bord du désespoir. [Get mad, then get over it](https://solal.hypotheses.org/159).
+
 Il s'agit de répondre aux inquiétudes et aux incompréhensions des rapporteurs, et de renforcer votre article :
 
 - repérez les critiques les plus graves, vs les points de détail
@@ -255,7 +261,7 @@ Il s'agit de répondre aux inquiétudes et aux incompréhensions des rapporteurs
 
 - la plupart des revues demandent une lettre expliquant comment vous avez traité les demandes, c'est tout à votre avantage. faites-la au fur et à mesure, éventuellement en reprenant les ppaux points de la lettre de la revue.
 - si vos rapporteurs font des demandes contradictoires, vous pouvez demander à la direction de la revue ses conseils, ou vous tranchez en expliquant cette contradiction.
-- même si les referees vous ont énervé très fort, faites toujours comme s'ils étaient de bonne foi et comme si la faute vous incombait totalement (get mad, then get over it).
+- même si les referees vous ont énervé très fort, faites toujours comme s'ils étaient de bonne foi et comme si la faute vous incombait totalement ().
 
 Réviser un article fait partie des tâches prioritaires : plus un article est près de la publication, plus il doit aller vite de votre côté (ex : relecture d'épreuves: 48h).
 
@@ -271,9 +277,16 @@ ensuite relecture des épreuves: seulement pour les coquilles, à faire dans un 
 - si votre sujet s'y prête, les revues de santé publique publient des articles courts, très factuels, bien plus faciles à écrire que nos papiers de socio. c'est peut-être le cas dans d'autres disciplines connexes mais je ne connais pas.
 - améliorer continuellement votre anglais : lire en anglais de la socio, le NYT, des romans... 
 - vous n'êtes pas obligé d'écrire en anglais direct : les labos ont souvent des financements pour des traductions, ou au minimum pour de l'_editing_ cad une relecture serrée centrée sur la langue.
-- en revanche vous devez absolument respecter la forme de l'article scientifique anglais et la psychologie du lecteur anglosaxon. La référence incontournable à mes yeux : 
+- en revanche vous devez absolument **respecter la forme de l'article scientifique anglais** et la psychologie du lecteur anglosaxon: Introduction (annonçant _the point_ dès la première page, et incluant une revue de littérature clairement délimitée), Méthodes, Résultats (pas de littérature), Discussion (retour à la littérature) (IMRAD).
+
+La référence incontournable à mes yeux : 
 
 Natalie Reid, _Getting published in international journal for European social scientists_.
+
+Un gros travail à faire sur **la bibliographie et le cadrage du cas** étudié : 
+
+- la biblio doit être quasi exclusivement en anglais : choisissez un thème sur lequel en fait, vous avez plus envie de discuter la littérature anglophone que la francophone (ex pour moi : la théorie des pratiques).
+- si vous travaillez sur la France, mettez-vous dans la tête que pour un britannique ou une américaine, c'est aussi exotique que la Grèce ou [les Îles Turques et Caïques](http://www.sciencedirect.com/science/article/pii/S0743016716303035). La problématique doit plus que jamais être bâtie à partir de la littérature.
 
 Et si vous avez du mal à écrire, en particulier si vous avez l'impression de n'avoir jamais le temps d'écrire : Paul Silvia, _How to write a lot_.
 
