@@ -10,7 +10,7 @@ Notes pour une présentation au séminaire de la Formation doctorale Sciences de
 Date: 2022-03-11  
 Auteur: Marie Plessz
 
-## qui je suis et d'où je parle
+## Qui je suis et d'où je parle
 
 sociologue, chercheuse à INRAE depuis 2010
 
@@ -20,7 +20,11 @@ sociologue, chercheuse à INRAE depuis 2010
 - membre du comité de rédaction de _Soctra_ pendant 4 ans, membre du comité de rédaction de la RFS depuis septembre 2021, évaluations d'articles pour des revues anglophones: j'ai relu beaucoup d'articles.
 - membre de quelques jurys de recrutement, j'ai eu l'occasion de lire et d'évaluer des dossiers de jeunes chercheuses.
 
-## Pourquoi publier des articles scientifiques ? 
+Je discute tout cela plus en détail dans mon mémoire d'habilitation à diriger des recherches, chapitre 1.
+
+Marie Plessz. La Dynamique sociale des pratiques : stratification sociale, changement social et consommation alimentaire. Sociologie. Ecole des hautes Etudes en Sciences sociales (EHESS), 2021. Texte intégral: [tel-03436087](https://hal.inrae.fr/tel-03436087).
+
+## Pourquoi publier des articles scientifiques ?
 
 - nourrir sa liste de publication (en fonction de ses objectifs professionnels)
 - faire avancer la thèse
@@ -36,7 +40,7 @@ Et en plus :
 
 La forme article s'impose de plus en plus comme un critère d'évaluation de la recherche et des chercheurs : validée par les pairs, visibles, dans des supports hiérarchisés (même si les institutions disent que ce qui compte c'est la qualité de l'article lui-même).
 
-### Pour votre dossier de publis, en vue de la fin de thèse visez
+### Pour votre dossier de publis, en vue de la fin de thèse, visez
 
 - au moins un article dont vous êtes seul auteur
 - un article dans une des grandes revue de socio
@@ -78,7 +82,7 @@ Article vs Livre :
 - du coup dans un livre l'auteur ne doit pas constamment prouver la scientificité de son propos : son statut d'auteur le place dans une position d'autorité d'entrée de jeu.
 - au contraire l'article scientifique fera l'objet d'une lecture critique sur le fond scientifique et sur l'administration de la preuve.
 
-### comment insérer l'article dans le parcours de thèse
+## Comment insérer l'article dans le parcours de thèse
 
 - Publier un article s'étale sur un temps très long, donc il ne faut pas attendre d'avoir fini pour soumettre des textes
   - Année sociologique (numéro spécial) : 2 ans
@@ -86,15 +90,15 @@ Article vs Livre :
   - un article en anglais dans _Cultural sociology_, avec un coauteur qui est parti à l'étranger et moi aussi (en épidémiologie), une problématique socio difficile à trouver : publié en 2018, soumis en 2016, début rédaction en 2014
 - l'écriture scientifique c'est TRES DIFFICILE, donc il faut commencer tôt à soumettre des trucs, pour digérer des critiques et progresser
 
-#### dans l'organisation de l'écriture
+### dans l'organisation de l'écriture
 
 - proposition de communication (congrés, journée d'études) ==> communication ==> article soumis ==> chapitre de thèse
-- communication ==> chapitre de thèse (V1?) ==> (communication ==>) article soumis (==> chapitre de thèse définitif)
+- communication ==> chapitre de thèse (V1?) ==> (communication ==>) article soumis ( ==> chapitre de thèse définitif)
 - working paper de votre labo ==> article soumis
 
 - permet d'améliorer progressivement le propos. organisateurices proposent parfois de monter numéro spécial, chapitre d'ouvrage etc. saisir ces opportunités, surtout en début de thèse mais attention aux délais parfois interminables.
 
-#### Le projet d'article lui-même
+### Le projet d'article lui-même
 - repérer un point  dans son matériau empirique : défi: construire la problématique par rapport à la littérature
 - repérer un point aveugle dans la littérature : défi: avez-vous le matériau pour le traiter?
 
@@ -103,7 +107,7 @@ Mais aussi :
 - "moi aussi je fais ma thèse sur le sujet X et j'ai remarqué ce truc, et si on faisait une communication ensemble au prochain congrès de l'AFS/l'ESA/le labo? ==> article
 - "ça te dirait qu'on bosse ensemble sur ces données?" posez vos conditions : est-ce que ça contribue à votre thèse, est-ce que ça vous fait apprendre des trucs, avec quels moyens? 
 
-## où soumettre ? hiérarchie des revues, revues prédatrices
+## Où soumettre ? hiérarchie des revues, revues prédatrices
 
 ### Les "Grandes revues françaises de socio"
 
@@ -120,7 +124,7 @@ La plupart: évaluation des articles est (plus ou moins) anonyme, mais (plus ou 
 
 - **toutes ces revues manquent d'articles** : soumettez !!!
 
-### des revues françaises moins prestigieuses, souvent plus thématiques
+### Des revues françaises moins prestigieuses, souvent plus thématiques
 
 - Politix
 - Communications
@@ -138,11 +142,13 @@ La plupart: évaluation des articles est (plus ou moins) anonyme, mais (plus ou 
 
 ### des revues anglophones dont le prestige va de super plus à tout pourri
 
-revues anglophones "atteignables" : 
+Ex revues anglophones "atteignables" et un peu généralistes : 
 - European societies (revue de l'ESA)
 - sociology
 - Sociological research online
 - Cultural sociology
+
+Une foule de revues thématiques sur vos objets
 
 En anglais, l'important dans un premier temps est de publier "un truc", en évitant le ppal piège...
 
@@ -153,34 +159,45 @@ revues qui n'existent pas vraiment, qui cherchent surtout à encaisser des frais
 
 Je reçois environ 15 mails de ce genre par semaine. 
 
-https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/ 
-
 Comment les reconnaître?
 - vous n'avez jamais rien lu dans ces revues
 - il faut payer pour soumettre
 - ils vous écrivent un mail pour vous dire qu'ils adorent ce que vous faites mais vous n'avez jamais entendu parler de cette personne et elle n'est pas universitaire.
 - le titre de la revue est incroyablement vague : ex: international journal of social sciences and humanities
+- les revues sont peu ancrées dans le monde académique : les directeurs et membres du board ne sont pas des universitaires, ou appartiennent à des établissements qui semblent fumeux; par opposition les revues bien établies sont souvent très appuyées sur des communautés scientifiques : Voir la présentation de [_British journal of sociology_](https://onlinelibrary.wiley.com/journal/14684446) (LSE).
 
-Ex sur le site de MDPI: toutes leurs revues.... https://www.mdpi.com/about/journals 
+Ex: le cas de l'éditeur MDPI: 
 
-ça n'existe pas en français parce que ce ne serait pas rentable.
+- [Un éditeur qui a de très nombreuses revues](https://www.mdpi.com/about/journals) 
+- discussion par un collègue économiste https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/   
+- ex: la revue [_Social sciences](https://www.mdpi.com/journal/socsci) : on ne connaît pas le comité de rédaction, on n'a pas d'affiliation pour le directeur, liste de disciplines délirante, frais de publication: 1400 CHF (francs suisses...).
 
-### où soumettre ?
+Il y a aussi des conférences prédatrices.
 
-- dans la revue qui va bien pour votre contribution:
+## Comment trouver la bonne revue scientifique?
+
+**C'est la bonne revue _pour votre contribution_**
 
 - est-ce une revue que vous citez?
-- est-ce une revue dans laquelle vous avez lu des articles, et les avez trouvés pertinents?
-- est-ce une revue dont le niveau d'exigence semble coller à l'ambition de votre article?
+- est-ce une revue dans laquelle vous avez lu des articles, et les avez trouvés pertinents? 
+- est-ce une revue dont le niveau d'exigence semble coller à l'ambition de votre article? Ni trop haut, ni trop bas, en visant quand même un peu haut pour la première soumission. demandez conseil sur ce point, c'est l'occasion de faire lire votre article.
 - pensez au format de votre contribution: illustrations enrichies, vidéos, photos etc? pensez revue en ligne permettant des annexes riches (Sociologie, Sociological research online). Contribution bien ramassée autour d'un argument, relativement courte? ça peut être l'occasion de tenter un article en anglais, où ces critères sont encore plus importants.
+- dans un premier temps essayez de ne pas publier plusieurs fois dans la même revue.
 
-Lisez des articles dans cette revue, sur votre sujet, et observez leur structure, leur angle, leur longueur, la place de la théorie et des résultats, le type de méthodes... 
+Une fois que vous avez repéré une revue: 
 
-Lisez toutes les consignes aux auteurs en particulier le périmètre (scope) de la revue, les différents formats de contribution, les procédures d'évaluation des articles et les critères etc.
+- Lisez toutes les consignes aux auteurs en particulier 
+  - le périmètre (aims and scope) de la revue, 
+  - les différents formats de contribution, 
+  - le comité de rédaction (editorial board) : des gens que vous avez lus? que vous estimez?
+  - les procédures et critères d'évaluation des articles.
+- Lisez des articles dans cette revue, sur votre sujet, et observez leur structure, leur angle, leur longueur, la place de la théorie et des résultats, le type de méthodes... 
 
-### frais de publication
+## Frais de publication
 
-L'édition scientifique est un secteur économique. Deux modèles : 
+Au cas où, comme moi en thèse, vous vous demanderiez si on est payé en tant qu'auteur: non. Même quand on publie un livre, souvent on doit apporter une contribution (par le biais de son labo/projet de recherche).
+
+L'édition scientifique est un secteur économique. Deux modèles :
 
 - lecteur payeur (abonnements par les établisst et bibliothèques, modèle classique en SHS)
 - auteur payeur (modèle qui se généralise en sciences dures)
@@ -192,7 +209,7 @@ C'est encore rare en socio, mais de plus en plus de revues demandent des frais d
 - si les frais sont en option pour rendre votre article accessible en accès ouvert: consigne à INRAE : refusez les offres "gold open access". 
 - vous avez le droit de poster la dernière version auteur sur votre site perso ou sur une archive institutionnelle
 - vous avez d'ailleurs probablement l'obligation de la déposer sur le site votre établissement (cc'est le cas pour les employés des EPST)
-- s'il y a des frais de publication : ne renoncez pas à publier dans une revue qui est super pertinente pour votre domaine. faites-les payer par votre labo, éventuellement un projet de recherche
+- s'il y a des frais de publication : ne renoncez pas à publier dans une revue qui est super pertinente pour votre domaine. faites-les payer par votre labo, éventuellement un projet de recherche. Mais ils doivent être "raisonnables" (je dirais <300€). 
 - sinon négociez avec la revue si vous pouvez prouver que votre institution refuse.
 
 ## Le processus de préparation, soumission et révision d'un article à une revue scientifique
@@ -248,8 +265,7 @@ ensuite relecture des épreuves: seulement pour les coquilles, à faire dans un 
 
 **vous pouvez inclure les articles soumis dans votre liste de publis**, à condition de bien clarifier à quel stade vous en êtes (soumis, en cours de révision, accepté pour publication).
 
-
-## aller vers la publication en anglais
+## Aller vers la publication en anglais
 
 - commencer par des communications orales (congrès de l'ESA) ou des recensions d'ouvrage en anglais (les revues sont sans cesse en quête de personnes pour faire des recension: proposez-vous).
 - si votre sujet s'y prête, les revues de santé publique publient des articles courts, très factuels, bien plus faciles à écrire que nos papiers de socio. c'est peut-être le cas dans d'autres disciplines connexes mais je ne connais pas.
