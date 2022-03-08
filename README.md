@@ -1,2 +1,3 @@
 # G1tuto-pour-ca
-tutos et recettes  pour la recherche et la cuisine
+
+Des tutos et recettes pour la recherche et la cuisine
