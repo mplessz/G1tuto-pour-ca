@@ -76,6 +76,27 @@ gs_household(csind1, csind2)
 ## [1] "I"  "V"  "IV"
 ```
 
+### Si l'installation de `datatools` échoue.
+
+Chez moi elle a échoué, avec le message d'erreur suivant : 
+
+> Error: le chargement du package ou de l'espace de noms a échoué pour 'datatools' in library.dynam(lib, package, package.lib) :  
+>La DLL 'fansi' est introuvable : elle n'est peut-être pas installée pour cette architecture ?  
+>Erreur : loading failed  
+>Exécution arrêtée  
+>*** arch - x64
+>ERROR: loading failed for 'i386'
+
+
+En m'appuyant sur [cette page d'aide](https://stackoverflow.com/questions/56585706/force-devtoolsinstall-github-to-install-only-32-bit-versions-of-packages), voici comment j'ai procédé:
+
+
+
+```r
+remotes::install_github("pmerckle/datatools",
+                        INSTALL_opts = "--no-multiarch")
+```
+
 
 ## La position sociale des ménages, au-delà de la PCS
 

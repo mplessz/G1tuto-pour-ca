@@ -62,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <style type="text/css">
 .main-container {
   max-width: 940px;
@@ -82,6 +83,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -247,6 +251,20 @@ cs_household(csind1, csind2)</code></pre>
 <pre><code>## [1] &quot;I-A&quot;  &quot;V-A&quot;  &quot;IV-B&quot;</code></pre>
 <pre class="r"><code>gs_household(csind1, csind2)</code></pre>
 <pre><code>## [1] &quot;I&quot;  &quot;V&quot;  &quot;IV&quot;</code></pre>
+</div>
+<div id="si-linstallation-de-datatools-échoue." class="section level3">
+<h3>Si l’installation de <code>datatools</code> échoue.</h3>
+<p>Chez moi elle a échoué, avec le message d’erreur suivant :</p>
+<blockquote>
+<p>Error: le chargement du package ou de l’espace de noms a échoué pour ‘datatools’ in library.dynam(lib, package, package.lib) :<br />
+La DLL ‘fansi’ est introuvable : elle n’est peut-être pas installée pour cette architecture ?<br />
+Erreur : loading failed<br />
+Exécution arrêtée<br />
+*** arch - x64 ERROR: loading failed for ‘i386’</p>
+</blockquote>
+<p>En m’appuyant sur <a href="https://stackoverflow.com/questions/56585706/force-devtoolsinstall-github-to-install-only-32-bit-versions-of-packages">cette page d’aide</a>, voici comment j’ai procédé:</p>
+<pre class="r"><code>remotes::install_github(&quot;pmerckle/datatools&quot;,
+                        INSTALL_opts = &quot;--no-multiarch&quot;)</code></pre>
 </div>
 </div>
 <div id="la-position-sociale-des-ménages-au-delà-de-la-pcs" class="section level2">
