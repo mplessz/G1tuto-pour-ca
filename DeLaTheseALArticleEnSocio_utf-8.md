@@ -17,12 +17,28 @@ sociologue, chercheuse à INRAE depuis 2010
 - thèse en comparaison internationale sur des pays non francophones : publier en anglais pour pouvoir dialoguer avec les collègues qui travaillent sur ces sociétés.
 - une institution où la socio est minoritaire et la culture de "ce qui n'est pas publié n'existe pas" est très forte. et publié = article.
 - une institution qui encourage à coécrire et à publier des articles en anglais.
-- membre du comité de rédaction de _Soctra_ pendant 4 ans, membre du comité de rédaction de la RFS depuis septembre 2021, évaluations d'articles pour des revues anglophones: j'ai relu beaucoup d'articles.
+- membre du comité de rédaction de _Soctra_ pendant 4 ans, membre du comité de rédaction de la _RFS_ depuis septembre 2021, évaluations d'articles pour des revues anglophones: j'ai relu beaucoup d'articles.
 - membre de quelques jurys de recrutement, j'ai eu l'occasion de lire et d'évaluer des dossiers de jeunes chercheuses.
 
 Je discute tout cela plus en détail dans mon mémoire d'HDR, chapitre 1.
 
 Marie Plessz. La Dynamique sociale des pratiques : stratification sociale, changement social et consommation alimentaire. mémoire d'habilitation à diriger des recherches en Sociologie. Ecole des hautes Etudes en Sciences sociales (EHESS), 2021. Texte intégral: [tel-03436087](https://hal.inrae.fr/tel-03436087).
+
+## Définitions
+
+ici je vais parler d'articles scientifiques au sens **d'articles publiés dans des revues à comité de lecture** (parfois notés ACL dans les listes de publication).
+
+Il s'agit d'articles qui ont été évalués par des pairs désignés par la direction de la revue.
+
+Vocabulaire de base en français et en anglais : 
+
+- direction de la revue / _editor-in-chief_ : dirige la revue, désigne des évaluateurs pour chaque article, responsable des décisions prises. Certaines revues partagent le travail entre plusieurs _editors_. 
+- secrétaire de rédaction : fait tout le travail de gestion (tenir à jour la base de données des articles soumis et de leur devenir, échanger avec les auteurs et les évaluateurs, transmettre les documents, et souvent préparation de copie avant transmission à l'éditeur)
+- éditeur (en français) / _publisher_ : publie la revue, encaisse les contributions (frais de publication ou abonnement). imprime éventuellement la version papier.  (ex : Presses de sciences po, Revues.org, Sage). Cairns est un portail électronique qui réunit l'offre de [plusieurs maisons d'éditions françaises(https://www-cairn-info.inshs.bib.cnrs.fr/a-propos.php)].
+- comité de lecture : le fonctionnement traditionnel des revues françaises est de désigner les évaluateurices des articles parmi les membres d'un comité de lecture renouvelé de temps en temps. souvent une 20aine de collègues choisies pour leurs affinités avec la ligne éditoriale de la revue. Exemple: _Sociologie du travail_, _RFS_, _Sociétés contemporaines_... Les revues organisent de diverses manière la discussion collective sur les articles qui ont été lus, mais l'idée est que la décision sur l'article est prise colllectivement.
+- évaluateur externe / rapporteur / _referee_ : les revues anglophones, et certaines revues françaises (Bulletin de méthodo sociologique), désignent des rapporteurs parmi l'ensemble de la communauté scientifique (souvent parmi les gens qui ont publié dans la revue récemment). c'est l'Editor ou l'_editorial board_ qui prend les décisions sur la foi de ces rapports. Les rapporteurs peuvent refuser de faire les rapports s'ils ont trop de travail ou s'ils estiment n'être pas compétents, ce qui retarde l'évaluation.
+  - _Sociologie_ mobilise des évaluateurs internes et des évaluateurs externes pour tous les articles.
+- évaluation en double aveugle / _double blinded peer-review_ : cas où les évaluateurs et les auteurs ne connaissent pas leurs noms. en général le directeur de la revue connaît tous les noms pour éviter les conflits d'intérêt. C'est la norme.
 
 ## Pourquoi publier des articles scientifiques ?
 
