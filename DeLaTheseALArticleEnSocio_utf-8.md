@@ -39,6 +39,9 @@ Vocabulaire de base en français et en anglais :
 - évaluateur externe / rapporteur / _referee_ : les revues anglophones, et certaines revues françaises (Bulletin de méthodo sociologique), désignent des rapporteurs parmi l'ensemble de la communauté scientifique (souvent parmi les gens qui ont publié dans la revue récemment). c'est l'Editor ou l'_editorial board_ qui prend les décisions sur la foi de ces rapports. Les rapporteurs peuvent refuser de faire les rapports s'ils ont trop de travail ou s'ils estiment n'être pas compétents, ce qui retarde l'évaluation.
   - _Sociologie_ mobilise des évaluateurs internes et des évaluateurs externes pour tous les articles.
 - évaluation en double aveugle / _double blinded peer-review_ : cas où les évaluateurs et les auteurs ne connaissent pas leurs noms. en général le directeur de la revue connaît tous les noms pour éviter les conflits d'intérêt. C'est la norme.
+- cette publication peut être uniquement électronique ou papier, mais elle fait toujours l'objet d'une mise en forme aux normes de la revue. Elle a un ISSN (et votre article a une année, un numéro et/ou un volume de publication, une paginatation et/ou un DOI.
+- Le DOI (_digital object identifier_) est un identifiant précieux pour vos productions scientifiques. Il existe d'autres productions scientifiques que les articles qui peuvent avoir un DOI : jeu de données (quanti ou quali) déposé sur une archive pérenne ([Didomena](https://didomena.ehess.fr/) à l'EHESS, Recherche Data gouv [en cours de finalisation](https://www.ouvrirlascience.fr/recherche-data-gouv-plateforme-nationale-federee-des-donnees-de-la-recherche/).)
+- _preprint_ : dernière version que l'auteur a envoyé à la revue, avant mise en forme par la revue elle-même. L'auteur conserve toujours les droits sur le _preprint_, il peut le déposer sur sa page personnelle, sur un site institutionnel, le transmettre à des collègues etc. 
 
 ## Pourquoi publier des articles scientifiques ?
 
@@ -56,28 +59,32 @@ Et en plus :
 
 La forme article s'impose de plus en plus comme un critère d'évaluation de la recherche et des chercheurs : validée par les pairs, visibles, dans des supports hiérarchisés (même si les institutions disent que ce qui compte c'est la qualité de l'article lui-même).
 
-### Pour votre dossier de publis, en vue de la fin de thèse, visez
+### Si vous visez une carrière d'enseignante-chercheure,  vous pouvez vous fixer les objectifs suivants en vue de la fin de thèse:
 
 - au moins un article dont vous êtes seul auteur
 - un article dans une des grandes revue de socio
 - quelque chose en anglais qui montre que vous avez compris qu'il faut aussi parler aux étrangers : une comm dans une conf en anglais, un texte traduit...
 
-## Qu'est-ce qu'un article scientifique?
+- Je vous conseille de créer dès maintenant votre **identifant [ORCID](https://orcid.org/)** : il vous identifie même si une autre personne à le même nom que vous, même si vous changez de nom (mariage, transition de genre...). Vous pourrez le lier à votre identifiant sur la plate-forme institutionnelle dont vous dépendez : probablement [HAL](https://hal.archives-ouvertes.fr/), à travers une de ses plate-formes (hal-shs, hal.inrae.fr, spire à sciences-Po etc). Il y a des formations pour ça dans les établissements normalement.
+- ajoutez systématiquement toutes vos productions scientifiques dans HAL : communications, publications même si ce ne sont pas des articles dans revues à comité de lecture (working papers...). Déposez une pièce jointe, par exemple le _preprint_.
+- De la même manière je vous encourage à utiliser un maximum votre adresse mail institutionnelle pour tous vos échanges professionnels (cad de la thèse) : n'importe qui peut créer une adresse marie*plessz@gmail.com et se faire passer pour moi.
+
+## Les spécificité de l'article scientifique comme texte
 
 - commence par un résumé
-- court (grand max 75 000 signes (RFS, Population), en anglais 8 000 mots)
+- court (grand max 80 000 signes (ponctuation et blancs compris) (RFS, Population), en anglais 8 000 mots)
 - resserré autour d'une question/proposition
 - situe votre travail par rapport à la littérature, la discute et y apporte quelque chose
 - cet apport passe généralement par l'analyse de matériaux empiriques (exceptions existent: revue de littérature)
 - fait état de la robustesse des résultats qu'il avance: résultat solide, cohérent avec la littérature, vs résultat explatoire qui devra être confirmé
 - contient une liste de références bibliographique complète et exacte
 
-- a pour auteurs une ou plusieurs personnes qui ont activement contribué à la recherche et à l'écriture (en socio)
-- est évalué par des pairs
-- est accepté par le comité de rédaction/le ou les _editors_ d'une revue
+- a pour **auteurs** une ou plusieurs personnes qui ont activement contribué à la recherche et à l'écriture (en socio). 
+- ces auteurs ont une **affiliation scientifique**, qui respecte des normes de présentation stricte. Important car les institutions sont évaluées sur les publications qui les mentionnent.
+
 - pour publication dans une revue qui a une discipline, ou une thématique, ou un  _scope_
   - votre article peut être refusé par une revue et accepté par une autre. mais il repassera par toutes les étapes, avec chaque revue.
-- cette publication peut être uniquement électronique ou papier, mais elle fait toujours l'objet d'une mise en forme aux normes de la revue. Elle a un ISSN (et votre article a , une année, un numéro et ou un volume, et un DOI)
+
 
 ### Ce qu'un article n'est pas 
 
@@ -153,7 +160,7 @@ La plupart: évaluation des articles est (plus ou moins) anonyme, mais (plus ou 
 - bulletin de méthodologie sociologique
 - Gouvernement et action publique
 - Vertigo
-- économie et statistique
+- Économie et statistique
 - Temporalités
 - Nouvelle revue du travail
 - etc.
@@ -299,7 +306,9 @@ La référence incontournable à mes yeux :
 
 Natalie Reid, _Getting published in international journal for European social scientists_.
 
-Un gros travail à faire sur **la bibliographie et le cadrage du cas** étudié : 
+Les [consignes aux auteurs de _Sociology_](https://journals-sagepub-com.inshs.bib.cnrs.fr/author-instructions/SOC) contiennent des indications précieuses sur comment rédiger la section méthode, quali ou quanti.
+
+Un gros travail à faire sur **la bibliographie et le cadrage** du cas étudié : 
 
 - la biblio doit être quasi exclusivement en anglais : choisissez un thème sur lequel en fait, vous avez plus envie de discuter la littérature anglophone que la francophone (ex pour moi : la théorie des pratiques).
 - si vous travaillez sur la France, mettez-vous dans la tête que pour un britannique ou une américaine, c'est aussi exotique que la Grèce ou [les Îles Turques et Caïques](http://www.sciencedirect.com/science/article/pii/S0743016716303035). La problématique doit plus que jamais être bâtie à partir de la littérature.
@@ -308,4 +317,4 @@ Et si vous avez du mal à écrire, en particulier si vous avez l'impression de n
 
 Ces deux livres sont à la bibliothèque de Jourdan.
 
-Le second est résumé par exemple ici : https://arinbasu.medium.com/learning-points-from-paul-silvias-how-to-write-a-lot-29fbd03fb631 
+Le second est résumé par exemple ici : [https://arinbasu.medium.com/learning-points-from-paul-silvias-how-to-write-a-lot-29fbd03fb631](https://arinbasu.medium.com/learning-points-from-paul-silvias-how-to-write-a-lot-29fbd03fb631).  
