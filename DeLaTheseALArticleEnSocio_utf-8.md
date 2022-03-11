@@ -17,7 +17,7 @@ sociologue, chercheuse à INRAE depuis 2010
 - thèse en comparaison internationale sur des pays non francophones : publier en anglais pour pouvoir dialoguer avec les collègues qui travaillent sur ces sociétés.
 - une institution où la socio est minoritaire et la culture de "ce qui n'est pas publié n'existe pas" est très forte. et publié = article.
 - une institution qui encourage à coécrire et à publier des articles en anglais.
-- membre du comité de rédaction de _Soctra_ pendant 4 ans, membre du comité de rédaction de la _RFS_ depuis septembre 2021, évaluations d'articles pour des revues anglophones: j'ai relu beaucoup d'articles.
+- membre du comité de lecture de _Sociologie du travail_ pendant 4 ans, membre du comité de lecture de la _RFS_ depuis septembre 2021, évaluations d'articles pour des revues anglophones: j'ai relu beaucoup d'articles.
 - membre de quelques jurys de recrutement, j'ai eu l'occasion de lire et d'évaluer des dossiers de jeunes chercheuses.
 
 Je discute tout cela plus en détail dans mon mémoire d'HDR, chapitre 1.
@@ -139,7 +139,7 @@ Mais aussi :
   - socio "pure" RFS, ARSS, Socio du travail, sociétés contemporaines, Sociologie, 
   - sces sociales ou disciplines connexes: RFSP, Genèses, Population, Ethnologie française
 
-La plupart: évaluation des articles est (plus ou moins) anonyme, mais (plus ou moins) faite par les membres du comité de rédaction : 
+La plupart: évaluation des articles est (plus ou moins) anonyme, mais (plus ou moins) faite par les membres du comité de lecture : 
 
 - renforce la "ligne éditoriale" de la revue
 - consulter la liste des membres avant de soumettre peut vous donner des indications sur qui a des chances d'évaluer votre article
@@ -214,7 +214,7 @@ Une fois que vous avez repéré une revue:
 - Lisez toutes les consignes aux auteurs en particulier 
   - le périmètre (aims and scope) de la revue, 
   - les différents formats de contribution, 
-  - le comité de rédaction (editorial board) : des gens que vous avez lus? que vous estimez?
+  - le comité de rédaction ou comité de lecture (editorial board) : des gens que vous avez lus? que vous estimez?
   - les procédures et critères d'évaluation des articles.
 - Lisez des articles dans cette revue, sur votre sujet, et observez leur structure, leur angle, leur longueur, la place de la théorie et des résultats, le type de méthodes... 
 
