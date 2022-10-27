@@ -36,6 +36,8 @@ Le dashi est un bouillon clair, normalement préparé en faisant cuire longtemps
 
 <img src="img/dashi.jpg" alt="dashi déshydraté" width="200" />
 
+*[Edit du 27/10/2022] Mon épicier m'a dit qu'il ne le vendait plus parce qu'il contient des ingrédients interdits en Europe :-/ . Pourtant le goût était meilleur que celui que j'ai acheté à la place. ça me rappelle ce papier sur les produits alimentaires ultratransformés que je dois finir...*
+
 #### Préparer son dashi
 
 Vvous pouvez préparer votre dashi. Voici [la recette dont je suis partie](https://www.lafujimama.com/how-to-make-dashi/) quand j'ai essayé: ça demande un peu de persévérance pour obtenir un bouillon ni fade, ni amer. Pour moi la différence de goût ne méritait pas le temps de travail supplémentaire, mais c'est personnel.
