@@ -4,8 +4,9 @@ author: Marie Plessz
 title: "Un projet Gitlab synchronisé sur github - miroir"
 ---
 
-J'utilise Gitlab (forgemia) pour la recherche, mais j'ai aussi une page github.  
+J'utilise le Gitlab INRAE pour la recherche, mais j'ai aussi une page github.  
 Je voudrais que mes projets puissent apparaître sur les deux, et se synchronisent automatiquement.
+Le gitlab INRAE s'appelle `forgemia`, du nom du département de Mathématiques et Informatique Appliquées d'INRAE. 
 
 ## La solution : le miroir. Comment faire?
 
