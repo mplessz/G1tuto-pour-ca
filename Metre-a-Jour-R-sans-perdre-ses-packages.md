@@ -7,9 +7,7 @@ output:
     keep_md: yes
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
-```
+
 
 # Mettre à jour R sans perdre tes packages
 
@@ -27,7 +25,8 @@ Source <https://www.r-bloggers.com/2017/05/upgrade-r-without-losing-your-package
 
 Sauver la liste des packages existants dans un fichier :
 
-```{r}
+
+```r
 tmp <- installed.packages()
 installedpkgs <- as.vector(tmp[is.na(tmp[,"Priority"]), 1])
 save(installedpkgs, file="installed_old.rda")
@@ -43,7 +42,8 @@ Relancer RStudio. Si besoin, aller dans Tools/Global Options pour sélectionner 
 
 ## Puis réinstaller les packages
 
-```{r}
+
+```r
 getwd() # vérifier que le dossier par défaut est le même, déplacer le fichier si besoin.
 
 load("installed_old.rda")
