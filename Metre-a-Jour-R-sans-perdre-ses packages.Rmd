@@ -1,0 +1,53 @@
+---
+title: "Metre-a-Jour-R-sans-perdre-ses-packages"
+author: "Marie Plessz"
+date: "2023-01-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Mettre à jour R sans perdre tes packages
+
+à peu près chaque année en octobre, R sort une mise à jour importante : on passe de la version 4.1.blablabla à 4.2.blabla.
+
+Pour gérer ces mises à jour, je ne suis pas convaincue par le package `installr` pour les installations Windows.
+
+Dans mon installation sur Windows, les packages R que je télécharge sont rangés dans un dossier qui est numéroté d'après cette version "importante" (4.1 ou 4.2). après chaque mise à jour il faut tout retélécharger...
+
+On peut contourner cela en anticipant un peu.
+
+Source <https://www.r-bloggers.com/2017/05/upgrade-r-without-losing-your-packages/>
+
+## AVANT d'installer la nouvelle version de R
+
+Sauver la liste des packages existants dans un fichier :
+
+```{r}
+tmp <- installed.packages()
+installedpkgs <- as.vector(tmp[is.na(tmp[,"Priority"]), 1])
+save(installedpkgs, file="installed_old.rda")
+
+getwd() # vérifier quel est le dossier par défaut
+```
+
+## MAINTENANT installer la nouvelle version de R
+
+Il faut la télécharger et l'installer comme si c'était la première fois.
+
+Relancer RStudio. Si besoin, aller dans Tools/Global Options pour sélectionner la nouvelle version de R (premier item du menu).
+
+## Puis réinstaller les packages
+
+```{r}
+getwd() # vérifier que le dossier par défaut est le même, déplacer le fichier si besoin.
+
+load("installed_old.rda")
+tmp <- installed.packages()
+installedpkgs.new <- as.vector(tmp[is.na(tmp[,"Priority"]), 1])
+missing <- setdiff(installedpkgs, installedpkgs.new)
+install.packages(missing)
+update.packages()
+```
